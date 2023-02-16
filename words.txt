@@ -1,0 +1,9 @@
+hello
+world
+computer
+programming
+language
+keyboard
+monitor
+mouse
+screen
